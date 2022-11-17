@@ -1,0 +1,27 @@
+ul {
+  list-style: none;
+}
+
+li {
+  border-bottom: 1px solid darkblue;
+  padding-bottom: 2ch;
+  max-width: 70vw;
+}
+
+.city-icon {
+  border: solid;
+  padding: 5%;
+  border-radius: 100%;
+}
+
+.city-temp {
+  font-size: 1.5rem;
+}
+
+figure {
+  margin: 0;
+}
+
+figcaption {
+  text-transform: uppercase;
+}
